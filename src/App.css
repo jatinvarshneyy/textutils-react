@@ -9,3 +9,7 @@
 .previewHeading{
   font-family: 'Poppins', sans-serif;
 }
+
+.darkmodeSwitch{
+  cursor: pointer;
+}
